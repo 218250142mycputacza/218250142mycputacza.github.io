@@ -1,1 +1,78 @@
+# Levi Williams
 
+---
+
+## Objective
+
+
+ 
+I am a hard worker and work diligently on the 
+tasks that are given to me. 
+I approach every task with enthusiasm and will 
+see it through to completion. 
+I am studying application development and have 
+experience coding in Java and HTML. 
+I am committed to utilising my skills to further the 
+mission of a company. 
+
+## Experience 
+CPUT Projects 
+Restaurant Management System 
+Domain Driven Design 
+Java Unit Testing
+## Programming Languages
+Java, HTML, SQL, PHP
+
+## Technical Skills 
+Object-Oriented Programming  
+ 
+Application Programming Interfaces 
+ 
+Application Development  
+                     
+Database Development
+
+---
+
+## Education
+### 2016
+Plumstead High School 
+### 2018 
+CPUT HC: Information and 
+Technology 
+### 2026 
+Studying for CPUT Diploma: 
+Information and Technology 
+
+## Contact 
+31 Berry Road, Wynberg 
+7800 
+Cape Town 
+South Africa 
+218250142@mycput.ac.za 
+0661732803 
+
+## References  
+Restaurant Management System GUI 
+
+https://Wareezy/Group-21-Restaurant
+Management-System-GUI 
+
+Restaurant Management System 
+
+https://Wareezy/Group-21-Restaurant
+Management-System 
+
+Domain Driven Design 
+
+https://GROUP21-ADP3-DOMAIN-DRIVEN-DESIGN
+1/src at master · 218250142/GROUP21-ADP3
+DOMAIN-DRIVEN-DESIGN-1
+
+Java Unit Testing 
+
+https://218250142/Junit2: Levi Test Driven 
+Development 
+
+## Mock Video
+<video src="./mock video.mp4" controls width="600"></video>
